@@ -77,13 +77,7 @@ Production AI Agent
 
 
 
-## 📊 GitHub Stats
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=underiya-ai&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=underiya-ai&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underiya-ai&layout=compact&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=underiya-ai)
 <!--

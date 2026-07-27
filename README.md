@@ -79,7 +79,7 @@ Production AI Agent
 
 
 
-![](https://komarev.com/ghpvc/?username=underiya-ai)
+
 <!--
 **underiya-ai/underiya-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

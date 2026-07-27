@@ -49,8 +49,6 @@ PostgreSQL
 - Git
 - GitHub
 - Postman
-- Firecrawl
-- Tavily
 - OpenAI API
 - Groq API
 - Gemini API
@@ -61,11 +59,7 @@ PostgreSQL
 
 ### Langvo
 
-AI Interview Platform
-
-### Lead Generation AI
-
-LangGraph + Firecrawl
+AI Interview Platfor
 
 ### Resume Analyzer
 

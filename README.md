@@ -1,5 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aniket Underiya </h1>
 
+<h3 align="center">
+AI Engineer | Agentic AI Developer | Backend Developer
+</h3>
+
+<p align="center">
+Building Production-Level AI Applications with LangGraph, FastAPI, RAG & LLMs
+</p>
+
+---------------------------------------------------
+Agentic AI
+LangGraph
+FastAPI
+Python
+RAG
+LLMs
+Machine Learning
+Nlp
+PostgreSQL
+---------------------------------------------------
+
+##  About Me
+
+- 🤖 Building Production-Level Agentic AI Systems
+- 🧠 Learning Advanced AI Engineering
+- 🔥 Interested in Multi-Agent Systems
+- ⚡ Backend Developer
+- 📚 Currently working on AI Interview Platform (Langvo)
+- 💬 Ask me about Python, LangGraph, FastAPI, RAG, LLM
+
+## Tech Stack
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 🛠 Tools
+
+- Visual Studio Code
+- Git
+- GitHub
+- Postman
+- Firecrawl
+- Tavily
+- OpenAI API
+- Groq API
+- Gemini API
+- Ollama
+- Rapidapi
+
+## Projects
+
+### Langvo
+
+AI Interview Platform
+
+### Lead Generation AI
+
+LangGraph + Firecrawl
+
+### Resume Analyzer
+
+LLM Powered
+
+### Job Search Agent
+
+Production AI Agent
+
+
+
+## 📊 GitHub Stats
+
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=underiya-ai&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=underiya-ai&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underiya-ai&layout=compact&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=underiya-ai)
 <!--
 **underiya-ai/underiya-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

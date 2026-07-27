@@ -22,16 +22,16 @@ PostgreSQL
 
 ##  About Me
 
-- 🤖 Building Production-Level Agentic AI Systems
-- 🧠 Learning Advanced AI Engineering
-- 🔥 Interested in Multi-Agent Systems
-- ⚡ Backend Developer
-- 📚 Currently working on AI Interview Platform (Langvo)
+-Building Production-Level Agentic AI Systems
+-  Learning Advanced AI Engineering
+-  Interested in Multi-Agent Systems
+-   Fastapi Developer
+-  Currently working on AI Interview Platform (Langvo)
 - 💬 Ask me about Python, LangGraph, FastAPI, RAG, LLM
 
 ## Tech Stack
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)

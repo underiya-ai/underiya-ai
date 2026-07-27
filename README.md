@@ -48,7 +48,7 @@ PostgreSQL
 - Visual Studio Code
 - Git
 - GitHub
-- Postman
+- Swagger UI
 - OpenAI API
 - Groq API
 - Gemini API

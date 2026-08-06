@@ -59,7 +59,7 @@ PostgreSQL
 
 ### Langvo
 
-AI Interview Platfor
+AI Interview Platform
 
 ### Resume Analyzer
 

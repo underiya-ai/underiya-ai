@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Underiya </h1>
 
 <h3 align="center">
-AI Engineer | Agentic AI Developer | Fastapi Developer
+AI/ML Engineer | Agentic AI Developer
 </h3>
 
 <p align="center">

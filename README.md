@@ -29,8 +29,6 @@ PostgreSQL
 -  Currently working on AI Interview Platform (Langvo)
 - 💬 Ask me about Python, LangGraph, FastAPI, RAG, LLM
 
-## Tech Stack
-
 ##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,36 +40,6 @@ PostgreSQL
 ![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-## 🛠 Tools
-
-- Visual Studio Code
-- Git
-- GitHub
-- Swagger UI
-- OpenAI API
-- Groq API
-- Gemini API
-- Ollama
-- Rapidapi
-
-## Projects
-
-### Langvo
-
-AI Interview Platform
-
-### Resume Analyzer
-
-LLM Powered
-
-### Job Search Agent
-
-Production AI Agent
-
-
-
-
 
 
 <!--
